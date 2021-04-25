@@ -1,4 +1,17 @@
-# Godot-3D-Template
-Godot Template for 3D Games
+#Project 06-3D-RPG
+Project for MSCH-C220, 4/27/2021
 
-Includes Keyboard mappings and Global.gd
+
+## Implementation
+Built using Godot 3.2.3
+Features:
+
+
+## References
+
+
+## Future Development
+None.
+
+## Created by 
+Kevin Schoonover
